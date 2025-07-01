@@ -25,8 +25,8 @@ Tienda online especializada en equipos fotográficos profesionales con implement
 | Dispositivo       | Columnas | Ancho mínimo |
 |-------------------|----------|--------------|
 | Móvil             | 1        | 280px        |
-| Tablet            | 2        | 768px        |
-| Desktop           | 3        | 1024px       |
+| Tablet            | 2        | 720px        |
+| Desktop           | 3        | 1020px       |
 | Pantallas grandes | 4        | 1440px       |
 
 ##  Productos incluidos
