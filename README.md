@@ -2,7 +2,7 @@
 
 Tienda online especializada en equipos fotográficos profesionales con implementación de imágenes responsive.
 
-## 📌 Características técnicas
+##  Características técnicas
 
 1. **Imágenes optimizadas**:
    - Producto 1: Art Direction con `<picture>` (cuadrada en móvil/rectangular en desktop)
@@ -20,7 +20,7 @@ Tienda online especializada en equipos fotográficos profesionales con implement
    - Espaciado adaptable
    - Grid responsive automático
 
-## 🖥️ Breakpoints
+## Resoluciones en base al dispositivo
 
 | Dispositivo       | Columnas | Ancho mínimo |
 |-------------------|----------|--------------|
@@ -29,14 +29,14 @@ Tienda online especializada en equipos fotográficos profesionales con implement
 | Desktop           | 3        | 1024px       |
 | Pantallas grandes | 4        | 1440px       |
 
-## 🛒 Productos incluidos
+##  Productos incluidos
 
 1. Cámara DSLR Pro 24MP
 2. Lente 70-200mm f/2.8
 3. Flash TTL Profesional
 4. Protector de lente
 
-## 📝 Cómo personalizar
+## Cómo personalizar
 
 1. Reemplaza las imágenes en `srcset` por tus propias fotos
 2. Modifica los colores en las variables CSS
